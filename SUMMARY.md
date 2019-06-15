@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Posts](README.md)
+* [MPI design pattern 1](mpi-design-pattern-1.md)
 
